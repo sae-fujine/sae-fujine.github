@@ -10,15 +10,10 @@ body {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-size: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -ms-background-size: 100%;
     -o-background-size: 100%
-}
-
-span.red {
-    color: red;
 }
 
 header {
@@ -66,10 +61,6 @@ nav ul li a {
     font-weight: bold;
 }
 
-nav ul li a.selected {
-    color: #000;
-}
-
 .container {
     width: 100%;
     margin: -100px auto 50px;
@@ -77,9 +68,9 @@ nav ul li a.selected {
 }
 
 section {
-    margin:0 auto;
+    margin: 0 auto;
     padding: 30px 20px;
-    max-width:600px;
+    max-width: 600px;
 }
 
 section h2 {

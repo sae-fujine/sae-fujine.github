@@ -10,15 +10,10 @@ body {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-size: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -ms-background-size: 100%;
     -o-background-size: 100%
-}
-
-span.red {
-    color: red;
 }
 
 header {
